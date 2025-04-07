@@ -1,0 +1,6 @@
+README.md
+setup.py
+backend/space_cargo_manager.egg-info/PKG-INFO
+backend/space_cargo_manager.egg-info/SOURCES.txt
+backend/space_cargo_manager.egg-info/dependency_links.txt
+backend/space_cargo_manager.egg-info/top_level.txt

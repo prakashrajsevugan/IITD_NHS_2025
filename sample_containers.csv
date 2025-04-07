@@ -1,0 +1,4 @@
+container_id,zone,width_cm,depth_cm,height_cm
+cont1,Storage,50,50,50
+cont2,Storage,30,30,30
+cont3,Undocking,200,200,200

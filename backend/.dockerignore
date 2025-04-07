@@ -1,0 +1,38 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Unit test / coverage reports
+.pytest_cache/
+tests/
+coverage/
+htmlcov/
+.coverage
+.coverage.*
+
+# Environment and IDE files
+.env
+.venv
+env/
+venv/
+ENV/
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Git
+.git
+.gitignore
+
+# Logs
+*.log
+
+# Database files (we're mounting them as volumes)
+*.db
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.bak
